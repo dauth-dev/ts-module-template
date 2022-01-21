@@ -1,7 +1,7 @@
 {
-	"name": "playground",
+	"name": "@devauth/ts-module-template",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Beispielprojekt zur Verwendung von Typescript in ECMA Script Modulen in Browsern ohne Bundler",
 	"main": "index.js",
 	"scripts": {
 		"build": "tsc ",
